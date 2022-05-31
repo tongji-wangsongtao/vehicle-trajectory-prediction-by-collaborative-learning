@@ -1,6 +1,6 @@
 # sensors-1705508
 
-This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
+This repository is the PyTorch implementation for the framework of vehicle trajectory prediction by collaborative learning.
 We will upload the code after the paper is accepted
 
 <!-- ![Map](./demo/Map.png)
