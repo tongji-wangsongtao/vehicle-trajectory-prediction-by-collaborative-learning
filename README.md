@@ -1,16 +1,17 @@
 # sensors-1705508
-We will upload the code after the paper is accepted
+
 
 # Joint-Visual-Mapping
 
-<!-- This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
+This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
+We will upload the code after the paper is accepted
 
-![Map](./demo/Map.png)
+<!-- ![Map](./demo/Map.png)
 
 <div  align="center">   
 <img src="./demo/normal.gif" width="200px"/><img src="./demo/fork.gif" width="300px"/>
-</div>
- -->
+</div> -->
+
 
 ## Abstract
 
@@ -18,7 +19,7 @@ Comming soon......
 
 ## Framework
 
-![Framework](./demo/Framework.png)
+![Framework](./demo/framework.PNG)
 
 ## Experimental results
 
