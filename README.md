@@ -1,8 +1,5 @@
 # sensors-1705508
 
-
-# Joint-Visual-Mapping
-
 This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
 We will upload the code after the paper is accepted
 
@@ -23,27 +20,18 @@ Comming soon......
 
 ## Experimental results
 
-### Mapping on Carla and test field
+### Qualitative results
 
 <div  align="center">  
-    <img src="./demo/testMap.png" style="zoom:100%;" />
+    <img src="./demo/example_multi_mod2.png" style="zoom:100%;" />
 </div>
 
-### Mapping with RoadSegDict
+### Quantitative results
 
 <div  align="center">  
-    <img src="./demo/Map_RoadSegDict.png" style="zoom:100%;" />
+    <img src="./demo/Quantitative results.PNG" style="zoom:100%;" />
 </div>
 
-### Examples of node position prediction and node state classification
-
-<div  align="center">
-    <img src="./demo/node_position.png" style="zoom:100%;" />
-</div>
-
-<div  align="center">
-    <img src="./demo/node_state.png" style="zoom:100%;" />
-</div>
 
 ## Proposed Mapping Data Set
 
