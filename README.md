@@ -1,4 +1,4 @@
-# sensors-1705508
+# vehicle trajectory prediction by collaborative learning
 
 This repository is the PyTorch implementation for the framework of vehicle trajectory prediction by collaborative learning.
 We will upload the code after the paper is accepted
