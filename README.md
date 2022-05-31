@@ -19,6 +19,12 @@ Comming soon......
 
 ![Framework](./demo/framework.PNG)
 
+## Setup
+Comming soon......
+
+## Usage
+Comming soon......
+
 ## Experimental results
 
 ### Qualitative results
@@ -32,11 +38,6 @@ Comming soon......
 <div  align="center">  
     <img src="./demo/Quantitative results.PNG" style="zoom:100%;" />
 </div>
-
-
-## Proposed Mapping Data Set
-
-Comming soon...
 
 ## Citation
 
