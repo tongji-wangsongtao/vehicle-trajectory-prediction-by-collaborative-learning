@@ -3,14 +3,14 @@ We will upload the code after the paper is accepted
 
 # Joint-Visual-Mapping
 
-This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
+<!-- This repository is the PyTorch implementation for the framework of Joint-Visual-Mapping.
 
-<!-- ![Map](./demo/Map.png)
+![Map](./demo/Map.png)
 
 <div  align="center">   
 <img src="./demo/normal.gif" width="200px"/><img src="./demo/fork.gif" width="300px"/>
-</div> -->
-
+</div>
+ -->
 
 ## Abstract
 
