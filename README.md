@@ -33,11 +33,11 @@ Comming soon......
     <img src="./demo/example_multi_mod2.png" style="zoom:100%;" />
 </div>
 
-### Quantitative results
+<!-- ### Quantitative results
 
 <div  align="center">  
     <img src="./demo/Quantitative results.PNG" style="zoom:100%;" />
-</div>
+</div> -->
 
 ## Citation
 
